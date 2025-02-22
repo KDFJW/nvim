@@ -19,7 +19,7 @@ If you had a configuration before, it can interfere with the new one. This can
 be fixed by removing the residual files:
 
 ```
-rm -fr ~/.local/share/nvim ~/.cache/nvim
+rm -fr ~/.local/share/nvim ~/.local/state/nvim ~/.cache/nvim
 ```
 
 **Licensed under CC0**
