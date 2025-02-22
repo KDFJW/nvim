@@ -24,8 +24,6 @@ rm -fr ~/.local/share/nvim ~/.cache/nvim
 
 **Licensed under CC0**
 
----
-
 [^1]: Multiple common compilers are tried
 
 [^2]: All custom code assumes that the plugins' requirements are met
