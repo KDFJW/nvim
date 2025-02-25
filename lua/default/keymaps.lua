@@ -10,7 +10,7 @@ local function format_current_file()
     end
 
     local commands = {
-        [{"rust"}] = "rustfmt --edition 2021",
+        [{"rust"}] = "rustfmt --edition 2024",
         [{"c", "cpp"}] = "clang-format --style=file -i",
         [{"zig"}] = "zig fmt",
         [{"python"}] = "black",
